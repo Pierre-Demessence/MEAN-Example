@@ -1,0 +1,13 @@
+{
+  "name": "mean-example",
+  "version": "0.0.0",
+  "description": "A nodejs example to showcase how to build a MEAN stack server",
+  "main": "server/index.js",
+  "repository": "",
+  "author": "Pierre Demessence <pierre.demessence@gmail.com>",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "~3.2.4",
+    "mongoose": "^4.4.3"
+  }
+}
